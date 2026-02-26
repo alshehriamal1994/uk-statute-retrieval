@@ -109,19 +109,23 @@ If you use this code or the **UK-STATUTECORPUS** in your research, please cite o
 
 **Alshehri, A.S., Eken, C., Bencomo, N. et al. Neural reranking for UK statutory retrieval: Provision-level evaluation and an open distilled model. *Artif Intell Law* (2025).**
 
-- [cite_start]**Full Paper**: [https://doi.org/10.1007/s10506-025-09501-6](https://doi.org/10.1007/s10506-025-09501-6) 
-- [cite_start]**Journal**: Artificial Intelligence and Law 
+- **Full Paper**: [https://doi.org/10.1007/s10506-025-09501-6](https://doi.org/10.1007/s10506-025-09501-6) 
+- **Journal**: Artificial Intelligence and Law 
 
 ### BibTeX
 ```bibtex
-@article{alshehri2025neural,
+@article{alshehri2026neural,
   title={Neural reranking for UK statutory retrieval: Provision-level evaluation and an open distilled model},
   author={Alshehri, Amal Saad and Eken, Can and Bencomo, Nelly and Atapour-Abarghouei, Amir},
   journal={Artificial Intelligence and Law},
-  year={2025},
+  year={2026},
+  month={Feb},
+  day={05},
   publisher={Springer},
-  doi={10.1007/s10506-025-09501-6}
+  doi={10.1007/s10506-025-09501-6},
+  url={https://doi.org/10.1007/s10506-025-09501-6}
 }
+
 
 
 
