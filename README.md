@@ -6,7 +6,7 @@ It explains how to reproduce the retrieval, reranking, and evaluation experiment
 ## 📂 Data Access
 
 **The dataset is NOT included in this repository.**
-Please access the UK Legistlation Corpus and Verified Query Set via the **Durham University Research Data Repository**:
+Please access the UK Legislation Corpus and Verified Query Set via the **Durham University Research Data Repository**:
 - **DOI**: [10.15128/r14x51hj064](http://doi.org/10.15128/r14x51hj064)
 
 ### Expected Data Structure
@@ -125,7 +125,4 @@ If you use this code or the **UK-STATUTECORPUS** in your research, please cite o
   doi={10.1007/s10506-025-09501-6},
   url={https://doi.org/10.1007/s10506-025-09501-6}
 }
-
-
-
-
+```
